@@ -6,8 +6,7 @@
       "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylance",
-        "ms-toolsai.jupyter",
-        "openai.chatgpt"
+        "ms-toolsai.jupyter"
       ],
       "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
