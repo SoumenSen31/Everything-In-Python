@@ -6,7 +6,10 @@
       "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylance",
-        "ms-toolsai.jupyter"
+        "ms-toolsai.jupyter",
+        "google.colab",
+        "renxzen.google-colab-theme",
+        "rebornix.colab-keymap"
       ],
       "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
